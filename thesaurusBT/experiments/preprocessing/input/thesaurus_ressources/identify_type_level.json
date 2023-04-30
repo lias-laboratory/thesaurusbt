@@ -1,0 +1,59 @@
+{
+    "Alimentation":{
+        "sublevel":["Boulangerie/Patisserie/Viennoiserie","Confiserie","Epicerie hors boisson","Restauration sur place","Restauration a emporter","Boisson alcool sur place","Boisson alcool a emporter","Boisson sans alcool sur place","Boisson sans alcool a emporter"]
+    },
+    "Divers":{
+        "sublevel":["Divers","Pile","Droguerie","Decoration","Peche","Vetement","Hygiene/soin","Bijoux","Carterie","Cadeau/souvenir"]
+    },
+    "Carburant":{
+        "sublevel":["Carburant"]
+    },
+    "Fumeur":{
+        "sublevel":["Cigarette","Cigare","Chicha","Article fumeur"]
+    },
+    "Vape":{
+        "sublevel":["Vape","E liquide","E cigarette"]
+    },
+    "Billetterie":{
+        "sublevel":["Billetterie"]
+    },
+    "Librairie":{
+        "sublevel":["Librairie"]
+    },
+    "Service bimedia":{
+        "sublevel":["Transfert d'argent","Telephonie","Moyen de paiement","Web2store","Carte cadeau","Service bancaire","Arrhes","DCG","Service bancaire"]
+    },
+    "Presse":{
+        "sublevel":["Presse","PQN","PQR","Publication"]
+    },
+    "Fleur":{
+        "sublevel":["Fleur"]
+    },
+    "Hotellerie":{
+        "sublevel":["Hotel"]
+    },
+    "Blanchisserie":{
+        "sublevel":["Blanchisserie"]
+    },
+    "CBD":{
+        "sublevel":["CBD a fumer","CBD infusion","CBD hygiene/soin"]
+    },
+    "Papeterie":{
+        "sublevel":["Papeterie"]
+    },
+    "High tech":{
+        "sublevel":["High tech"]
+    },
+    "Jouet":{
+        "sublevel":["Jouet"]
+    },
+    "Service tiers":{
+        "sublevel":["Timbre fiscal","Billetterie transport","Timbre postal","Vignette autoroute/periph","Service petites annonces"]
+    },
+    "Jeux":{
+        "sublevel":["Jeux a gratter","Loterie","Pari","Vignette autoroute/periph"]
+    }
+    
+    
+
+}

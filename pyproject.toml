@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["thesaurusBT"]
+
+[project]
+name = "thesaurusBT"
+authors = [
+    {name = "Maxime PERROT", email = "maxime.perrot@ensma.fr"},
+]
+description = "Multi-labelling activities of retail stores from sales experiments"
+readme = "README.rst"
+requires-python = ">=3.7"
+keywords = ["one", "two"]
+license = {text = "MIT"}
+
+dependencies = [
+    "pandas",
+    'numpy; python_version<"3.8"',
+    "w3lib",
+    "scikit-learn",
+    "catboost",
+    "tqdm",
+    "pyarrow",
+    "fastparquet"
+]
+dynamic = ["version"]
+
+[project.scripts]
+my-script = "thesaurusBT.thesaurusBT:main"
