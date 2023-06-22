@@ -2,7 +2,7 @@
 
 We consider a retail store classification problem supported by a real word dataset. It includes yearly sales from several thousand stores with dirty categorical features on product labels and product hierarchies. Despite the fact that classification is a well-known problem of machine learning, current baseline methods are inefficient due to the dirty nature of data. As a consequence, We propose a practical solution using an intermediary global approximate classification of products, based on local products hierarchies.  Activities for a subset of stores are human-labeled to serve as ground truth for validation, and enable semi-supervision. These experiments show the effectiveness of our approach compared to baseline methods. 
 
-This work is carried out thanks to the support of the [ANRT](https://www.anrt.asso.fr/fr) through the CIFRE (Industrial Agreements for Training through Research) program. The project is supported by [OCode](https://www.ocode.team/) company and [LIAS laboratory (ISAE-ENSMA)](https://www.lias-lab.fr/).
+This work is carried out thanks to the support of the [ANRT](https://www.anrt.asso.fr/fr) through the CIFRE (Industrial Agreements for Training through Research) program. The project is supported by [Bimedia](https://www.bimedia.com/) company and [LIAS laboratory (ISAE-ENSMA)](https://www.lias-lab.fr/).
 
 ## Repository Organisation
 
